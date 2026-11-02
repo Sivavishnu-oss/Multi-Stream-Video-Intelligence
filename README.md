@@ -85,7 +85,7 @@ Hacknex/
 #### Option A: Using standard Python `venv`
 ```bash
 # Navigate to the project root directory
-cd Hacknex
+cd Multi-Stream-Video-Intelligence
 
 # Create a virtual environment
 python3 -m venv .venv
