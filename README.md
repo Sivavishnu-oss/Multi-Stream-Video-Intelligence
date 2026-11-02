@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
 #### Option B: Using `uv` (Faster)
 ```bash
-cd Hacknex
+cd Multi-Stream-Video-Intelligence
 uv venv --python 3.11 .venv
 source .venv/bin/activate
 uv pip install -r requirements.txt
