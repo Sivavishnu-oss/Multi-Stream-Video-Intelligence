@@ -50,7 +50,7 @@ An intelligent video surveillance and search platform built with **YOLO26** (`yo
 ## 📁 Repository Structure
 
 ```text
-Hacknex/
+Multi-Stream-Video-Intelligence/
 ├── app.py                         # Streamlit web dashboard with command bar and video upload
 ├── video_intelligence_engine.py   # Core YOLO26 + OpenCLIP indexing and retrieval engine
 ├── video_processor.py             # OpenCV frame extractor & YOLO detection pipeline
